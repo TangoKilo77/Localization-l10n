@@ -46,7 +46,7 @@ msgstr "Ohje, diese Seite wurde nicht gefunden!"
 
 #: 404.php:30
 msgid "Helpful Links"
-msgstr ""
+msgstr "Hilfreiche Links"
 
 # @ Avada
 #: 404.php:43
@@ -77,7 +77,7 @@ msgstr "- Antworten"
 # @ bbpress
 #: bbpress/loop-search-topic.php:44
 msgid "Topic: "
-msgstr ""
+msgstr "Thema"
 
 # @ bbpress
 #: bbpress/loop-search-topic.php:49
@@ -153,7 +153,7 @@ msgstr "URL"
 
 #: comments.php:69
 msgid "Comment"
-msgstr ""
+msgstr "Kommentar"
 
 # @ Avada
 #: comments.php:69
@@ -184,23 +184,16 @@ msgid "Post Comment"
 msgstr "Kommentar senden"
 
 #: contact.php:36 contact.php:38
-msgid ""
-"Form email address is not set in Theme Options. Please fill in a valid "
-"address to make contact form work."
+msgid "Form email address is not set in Theme Options. Please fill in a valid address to make contact form work."
 msgstr ""
 
 # @ Avada
 #: contact.php:45 contact.php:47
-msgid ""
-"Please check if you've filled all the fields with valid information. Thank "
-"you."
-msgstr ""
-"Bitte überprüfen Sie, ob Sie alle Felder mit gültigen Informationen "
-"ausgefüllt haben. Vielen Dank!"
+msgid "Please check if you've filled all the fields with valid information. Thank you."
+msgstr "Bitte überprüfen Sie, ob Sie alle Felder mit gültigen Informationen ausgefüllt haben. Vielen Dank!"
 
 #: contact.php:54 contact.php:56
-msgid ""
-"Thank you %s for using our contact form! Your email was successfully sent!"
+msgid "Thank you %s for using our contact form! Your email was successfully sent!"
 msgstr ""
 
 # @ Avada
@@ -225,9 +218,7 @@ msgid "Theme Options"
 msgstr "Theme Einstellungen"
 
 #: functions.php:339
-msgid ""
-"Your server runs on an old version of PHP 5.2. It is recommended you update "
-"to %s or greater."
+msgid "Your server runs on an old version of PHP 5.2. It is recommended you update to %s or greater."
 msgstr ""
 
 # @ Avada
@@ -240,21 +231,15 @@ msgid "Fusion Patcher"
 msgstr ""
 
 #: functions.php:631
-msgid ""
-"Our site is currently undergoing scheduled maintenance. Please try again in "
-"a moment."
+msgid "Our site is currently undergoing scheduled maintenance. Please try again in a moment."
 msgstr ""
 
 #: functions.php:635
-msgid ""
-"Currently updating the Avada Theme. Your site will be accessible once the "
-"update finishes"
+msgid "Currently updating the Avada Theme. Your site will be accessible once the update finishes"
 msgstr ""
 
 #: functions.php:646
-msgid ""
-"The Fusion-Core plugin needs to be updated before your site can exit "
-"maintenance mode. Please %s to update the plugin."
+msgid "The Fusion-Core plugin needs to be updated before your site can exit maintenance mode. Please %s to update the plugin."
 msgstr ""
 
 #: functions.php:646
@@ -13616,14 +13601,13 @@ msgstr "Weiterlesen"
 # @ Avada
 #: templates/blog-layout.php:209
 msgid "Protected"
-msgstr ""
-"Dieser Inhalt ist Passwortgeschützt. Geben Sie ihr Passwort ein um ihn sich "
+msgstr "Dieser Inhalt ist Passwortgeschützt. Geben Sie ihr Passwort ein um ihn sich "
 "anzeigen zu lassen:"
 
 # @ Avada
 #: templates/blog-layout.php:262
 msgid "Load More Posts"
-msgstr ""
+msgstr "Lade mehr Beiträge"
 
 # @ Avada
 #: templates/elasticslider.php:32
