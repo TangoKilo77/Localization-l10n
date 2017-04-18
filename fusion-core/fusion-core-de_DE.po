@@ -278,7 +278,7 @@ msgstr ""
 #: fusion-slider/templates/add-new-meta-fields.php:13
 #: fusion-slider/templates/edit-meta-fields.php:14
 msgid "Enter a pixel value for width and height, ex: 1000px"
-msgstr ""
+msgstr "Füge einen Wert in Pixeln für Breite und Höhe ein, z.B.: 1000px"
 
 # @ fusion-core
 #: fusion-slider/templates/add-new-meta-fields.php:17
@@ -567,9 +567,7 @@ msgstr "Viel Spaß!"
 # @ wordpress-importer
 #: libs/wordpress-importer.php:179
 msgid "Remember to update the passwords and roles of imported users."
-msgstr ""
-"Vergessen Sie nicht, Passwörter und Rechte von importierten Benutzern zu "
-"aktualisieren."
+msgstr "Vergessen Sie nicht, Passwörter und Rechte von importierten Benutzern zu aktualisieren."
 
 # @ wordpress-importer
 #: libs/wordpress-importer.php:199
@@ -896,12 +894,12 @@ msgstr "Kategorie ausschliessen"
 
 #: shortcodes/fusion-faq.php:424 shortcodes/fusion-portfolio.php:1117
 msgid "Select categories to exclude."
-msgstr ""
+msgstr "Kategorie zum Ausschliessen auswählen"
 
 #: shortcodes/fusion-faq.php:431 shortcodes/fusion-fusionslider.php:485
 #: shortcodes/fusion-portfolio.php:1395
 msgid "Element Visibility"
-msgstr ""
+msgstr "Element Sichtbarkeit"
 
 #: shortcodes/fusion-faq.php:435 shortcodes/fusion-fusionslider.php:489
 #: shortcodes/fusion-portfolio.php:1399
@@ -965,7 +963,7 @@ msgstr "Projekt anzeigen"
 #: shortcodes/fusion-portfolio.php:592
 #: templates/portfolio-archive-layout.php:302
 msgid "Load More Posts"
-msgstr ""
+msgstr "Zeige mehr Beiträge"
 
 #: shortcodes/fusion-portfolio.php:887
 msgid "All items displayed."
@@ -1060,7 +1058,7 @@ msgstr ""
 
 #: shortcodes/fusion-portfolio.php:973
 msgid "Content Position"
-msgstr ""
+msgstr "Inhalt Position"
 
 #: shortcodes/fusion-portfolio.php:974
 msgid ""
@@ -1211,11 +1209,11 @@ msgstr ""
 
 #: shortcodes/fusion-portfolio.php:1150
 msgid "On"
-msgstr ""
+msgstr "An"
 
 #: shortcodes/fusion-portfolio.php:1151
 msgid "Off"
-msgstr ""
+msgstr "Aus"
 
 #: shortcodes/fusion-portfolio.php:1163
 msgid "Post Offset"
@@ -1239,7 +1237,7 @@ msgstr ""
 
 #: shortcodes/fusion-portfolio.php:1179
 msgid "Full Content"
-msgstr ""
+msgstr "Kompletter Inhalt"
 
 # @ fusion-core
 #: shortcodes/fusion-portfolio.php:1192
@@ -1389,13 +1387,13 @@ msgstr ""
 #: templates/single-avada_portfolio.php:38
 #: templates/single-avada_portfolio.php:53
 msgid "Previous"
-msgstr ""
+msgstr "Vorheriges"
 
 #: templates/single-avada_portfolio.php:60
 #: templates/single-avada_portfolio.php:68
 #: templates/single-avada_portfolio.php:83
 msgid "Next"
-msgstr ""
+msgstr "Nächstes"
 
 #: templates/single-avada_portfolio.php:158
 msgid "Project Description"
@@ -1421,7 +1419,7 @@ msgstr "Tags:"
 
 #: templates/single-avada_portfolio.php:206
 msgid "Project URL:"
-msgstr ""
+msgstr "Projekt URL"
 
 #: templates/single-avada_portfolio.php:220
 msgid "Copyright:"
@@ -1429,7 +1427,7 @@ msgstr ""
 
 #: templates/single-avada_portfolio.php:228
 msgid "By:"
-msgstr ""
+msgstr "Von"
 
 # @ fusion-core
 #. Plugin Name of the plugin/theme
@@ -1534,13 +1532,13 @@ msgstr ""
 #: fusion-core.php:394
 msgctxt "Taxonomy General Name"
 msgid "Groups"
-msgstr ""
+msgstr "Gruppen"
 
 # @ fusion-core
 #: fusion-core.php:395
 msgctxt "Taxonomy Singular Name"
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
 # @ fusion-core
 #~ msgid "The type of animation when slides rotate."
@@ -4128,7 +4126,7 @@ msgstr ""
 
 # @ fusion-core
 #~ msgid "Slide Type"
-#~ msgstr "Schiebertyp"
+#~ msgstr "Slidertyp"
 
 # @ fusion-core
 #~ msgid "Choose a video or image slide"
@@ -4140,7 +4138,7 @@ msgstr ""
 
 # @ fusion-core
 #~ msgid "Slide Image"
-#~ msgstr "Schieberbild"
+#~ msgstr "Sliderbild"
 
 # @ fusion-core
 #~ msgid "Upload an image to display in the slide"
